@@ -1,2 +1,2 @@
 # AuthenticationProject
-Demonstration of a role based authentication for asp.net web core applications
+Demonstration of a role based authentication for ef core web applications
